@@ -1,1 +1,11 @@
+{
+  "name": "qr3d-font",
+  "version": "1.0.0",
+  "description": "ตัวถอดรหัสและส่วนขยายการทำงานสำหรับ QR3D Cord",
+  "main": "qr3d-font.js",
+  "author": "Thanva Phupingbut 244",
+  "license": "PROPRIETARY",
+  "keywords": ["qr3d", "decoder", "font", "extension", "closed-system"],
+  "dependencies": {}
+}
 
